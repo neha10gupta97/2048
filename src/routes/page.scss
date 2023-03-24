@@ -1,0 +1,6 @@
+.cell {
+	@apply flex justify-center items-center text-5xl;
+	&.has-value {
+		background-color: antiquewhite;
+	}
+}
